@@ -1,0 +1,7 @@
+fixRouter {
+    buys: [ "TR1" ]
+    sells: [ "EXCHANGE" ]
+    routes {
+        SEHK: "EXCHANGE"
+    }
+}
